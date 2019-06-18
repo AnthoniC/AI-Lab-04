@@ -1,0 +1,13 @@
+class,bar,cost,patrons
+e,f,3,some
+p,f,1,full
+e,t,1,some
+e,f,1,full
+p,f,3,full
+e,t,2,some
+p,t,1,none
+e,f,2,some
+p,t,1,full
+p,t,3,full
+p,f,1,none
+e,t,1,full
